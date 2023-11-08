@@ -12,7 +12,7 @@ I am a scientist with a background in synthetic chemistry, photophysics, quantum
 
 Areas of Expertise
 ======
-### Machine Learning & Drug Development
+### Machine Learning & Drug Discovery
 My research in this area seeks to tackle challenging problems in drug discovery using machine learning, automation, physical modeling, and iterative design. Subjects of current interest include: Bayesian chemical structure optimization, unertainty estimation, large-scale virtual screening, generative design, matched molecular pair analysis, and automated retrosynthesis.
 
 ### Organometallic Photophysics & Spectroscopy
