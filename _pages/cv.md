@@ -13,10 +13,10 @@ Here is a 1 page overview: [Benjamin J. Shields CV PDF]()
 
 Education
 ======
-* B.A. in Applied Mathematics, with highest honors, University of North Carolina Asheville, 2014
-* B.S. in Chemistry, with highest honors, University of North Carolina Asheville, 2014
-* M.A. in Chemistry, with distinction, Princeton University, 2016
-* Ph.D. in Chemistry, Princeton University, 2019
+* B.A. in Applied Mathematics, with highest honors, University of North Carolina Asheville
+* B.S. in Chemistry, with highest honors, University of North Carolina Asheville
+* M.A. in Chemistry, with distinction, Princeton University
+* Ph.D. in Chemistry, Princeton University
 
 Publications
 ======
