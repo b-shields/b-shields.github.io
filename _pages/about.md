@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a scientist with a background in synthetic chemistry, photophysics, quantum mechanical modeling, machine learning, and software development. My interdisciplinary experience was forged from a problem-oriented approach to science. Whether in the lab or on my computer I love breaking down challenging problems, developing useful applications of new technology, and understanding the underlying mechanisms driving complex systems. 
+I am a scientist with a background in synthetic chemistry, photophysics, quantum mechanical modeling, machine learning, drug discovery, and software development. My interdisciplinary experience was forged from a problem-oriented approach to science. Whether in the lab or on my computer I love breaking down challenging problems, developing useful applications of new technology, and understanding the underlying mechanisms driving complex systems. 
 
 Areas of Expertise
 ======
 ### Machine Learning & Drug Discovery
-My research in this area seeks to tackle challenging problems in drug discovery using machine learning, automation, physical modeling, and iterative design. Subjects of current interest include: Bayesian chemical structure optimization, unertainty estimation, large-scale virtual screening, generative design, matched molecular pair analysis, and automated retrosynthesis.
+My research in this area seeks to tackle challenging problems in drug discovery using machine learning, automation, physical modeling, and iterative design. Subjects of current interest include: Bayesian optimization, unertainty estimation, large-scale virtual screening, generative design, antibody engineering, automated retrosynthesis, and cloud native cheminformatics.
 
 ### Organometallic Photophysics & Spectroscopy
 Transition metal complexes play critical roles as photocatalysts for solar-to-electrical energy conversion and chemical synthesis. My research in this area utilizes organometallic chemistry, quantum mechanical modeling, and ultrafast spectroscopy to understand and improve photocatalytic systems.
